@@ -1,40 +1,19 @@
 [
     {
-        "Author": "attick, daemitus, alymphocyte, grammernatzi",
-        "Name": "XIV Combo Plus",
-        "Punchline": "Condenses combos and mutually exclusive abilities onto a single button. Plus extras.",
-        "Description": "This is an enhanced version of XIVCombo with a variety of new added features.\nThis is mutually exclusive with other XIVCombo versions, so make sure they do not conflict!",
-        "InternalName": "XIVComboPlus",
-        "AssemblyVersion": "1.0.0.4",
-        "RepoUrl": "https://github.com/kerubi1/test",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 5,
-        "LoadPriority": 0,
-        "IconUrl": "https://raw.githubusercontent.com/kerubi1/test/master/res/icon.png",
-        "ImageUrls": [],
-        "DownloadLinkInstall": "https://github.com/kerubi1/MyDalamudPlugins/blob/master/XIVComboPlus/latest.zip?raw=true",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/kerubi1/MyDalamudPlugins/blob/master/XIVComboPlus/latest.zip?raw=true",
-        "DownloadLinkUpdate": "https://github.com/kerubi1/MyDalamudPlugins/blob/master/XIVComboPlus/latest.zip?raw=true",
-        "DownloadCount": 0,
-        "LastUpdated": "1640316936"
-    },
-    {
-        "Author": "shdwp",
+        "Author": "shdwp, Iaotle",
         "Name": "RaidBuffTracker",
         "Punchline": "Keep track of your party raid buff cooldowns!",
         "Description": "Adds a widget keeping track of your party actions cooldowns and state, this includes raid buffs, utility and other stuff you might be interested in.\n\nPlugin shows when abilities are active, and where their cooldown is at, helping you to align your burst windows.\n\nDevelopment: shdwp; advisor, UX and QA: Theihe.",
         "InternalName": "RaidBuffTracker",
         "DalamudApiLevel": 5,
-        "AssemblyVersion": "1.0.0.0",
+        "AssemblyVersion": "1.0.0.1",
         "ApplicableVersion": "any",
         "ImageUrls": [
         "https://raw.githubusercontent.com/shdwp/DalamudPlugins/api5/plugins/RaidBuffTracker/images/image1.png"
         ],
-        "IconUrl": "https://raw.githubusercontent.com/shdwp/DalamudPlugins/api5/plugins/RaidBuffTracker/images/icon.png",
-        "DownloadLinkInstall": "https://github.com/shdwp/DalamudPlugins/blob/api5/plugins/RaidBuffTracker/latest.zip?raw=true",
-        "DownloadLinkUpdate": "https://github.com/shdwp/DalamudPlugins/blob/api5/plugins/RaidBuffTracker/latest.zip?raw=true",
+        "IconUrl": "https://raw.githubusercontent.com/iaotle/MyDalamudPlugins/api5/plugins/RaidBuffTracker/images/icon.png",
+        "DownloadLinkInstall": "https://github.com/iaotle/MyDalamudPlugins/blob/api5/plugins/RaidBuffTracker/latest.zip?raw=true",
+        "DownloadLinkUpdate": "https://github.com/iaotle/MyDalamudPlugins/blob/api5/plugins/RaidBuffTracker/latest.zip?raw=true",
         "Tags": [
         "ui"
         ]
