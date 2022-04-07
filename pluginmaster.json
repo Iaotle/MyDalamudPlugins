@@ -11,9 +11,9 @@
         "ImageUrls": [
         "https://raw.githubusercontent.com/shdwp/DalamudPlugins/api5/plugins/RaidBuffTracker/images/image1.png"
         ],
-        "IconUrl": "https://raw.githubusercontent.com/iaotle/MyDalamudPlugins/api5/plugins/RaidBuffTracker/images/icon.png",
-        "DownloadLinkInstall": "https://github.com/iaotle/MyDalamudPlugins/blob/api5/plugins/RaidBuffTracker/latest.zip?raw=true",
-        "DownloadLinkUpdate": "https://github.com/iaotle/MyDalamudPlugins/blob/api5/plugins/RaidBuffTracker/latest.zip?raw=true",
+        "IconUrl": "https://raw.githubusercontent.com/iaotle/MyDalamudPlugins/master/plugins/RaidBuffTracker/images/icon.png",
+        "DownloadLinkInstall": "https://github.com/iaotle/MyDalamudPlugins/blob/master/plugins/RaidBuffTracker/latest.zip?raw=true",
+        "DownloadLinkUpdate": "https://github.com/iaotle/MyDalamudPlugins/blob/master/plugins/RaidBuffTracker/latest.zip?raw=true",
         "Tags": [
         "ui"
         ]
