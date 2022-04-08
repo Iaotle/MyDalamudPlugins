@@ -9,7 +9,7 @@
         "AssemblyVersion": "1.0.0.1",
         "ApplicableVersion": "any",
         "ImageUrls": [
-        "https://raw.githubusercontent.com/shdwp/DalamudPlugins/master/plugins/RaidBuffTracker/images/image1.png"
+        "https://raw.githubusercontent.com/shdwp/DalamudPlugins/master/plugins/RaidBuffTracker/images/icon.png"
         ],
         "IconUrl": "https://raw.githubusercontent.com/iaotle/MyDalamudPlugins/master/plugins/RaidBuffTracker/images/icon.png",
         "DownloadLinkInstall": "https://github.com/iaotle/MyDalamudPlugins/blob/master/plugins/RaidBuffTracker/latest.zip?raw=true",
