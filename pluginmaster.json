@@ -17,5 +17,22 @@
         "Tags": [
         "ui"
         ]
+    },
+        {
+        "Author": "a08381, Iaotle",
+        "Name": "Skip Cutscene",
+        "Punchline": "Skips MSQ Roulette Cutscenes",
+        "Description": "Works for Castrum and Praetorium.",
+        "InternalName": "SkipCutscene",
+        "DalamudApiLevel": 6,
+        "AssemblyVersion": "1.2.0.2",
+        "ApplicableVersion": "any",
+        "ImageUrls": [
+        ],
+        "DownloadLinkInstall": "https://github.com/iaotle/MyDalamudPlugins/blob/master/plugins/SkipCutscene/latest.zip?raw=true",
+        "DownloadLinkUpdate": "https://github.com/iaotle/MyDalamudPlugins/blob/master/plugins/SkipCutscene/latest.zip?raw=true",
+        "Tags": [
+        "Utility"
+        ]
     }
 ]
