@@ -1,0 +1,15 @@
+{
+  "Author": "akira0245, Iaotle",
+  "Name": "LootMaster",
+  "InternalName": "LootMaster",
+  "AssemblyVersion": "2.0.0.0",
+  "Description": "Use /need, /greed, and /pass to roll automatically on items.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "UI",
+    "Utility"
+  ],
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "Punchline": "Enables you to roll on items using a chat command."
+}

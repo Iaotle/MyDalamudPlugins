@@ -6,7 +6,7 @@
         "Description": "Adds a widget keeping track of your party actions cooldowns and state, this includes raid buffs, utility and other stuff you might be interested in.\n\nPlugin shows when abilities are active, and where their cooldown is at, helping you to align your burst windows.\n\nDevelopment: shdwp, Iaotle; advisor, UX and QA: Theihe.",
         "InternalName": "RaidBuffTracker",
         "DalamudApiLevel": 6,
-        "AssemblyVersion": "1.0.1.0",
+        "AssemblyVersion": "1.0.2.2",
         "ApplicableVersion": "any",
         "ImageUrls": [
         "https://raw.githubusercontent.com/shdwp/DalamudPlugins/master/plugins/RaidBuffTracker/images/preview.png"
@@ -15,7 +15,8 @@
         "DownloadLinkInstall": "https://github.com/iaotle/MyDalamudPlugins/blob/master/plugins/RaidBuffTracker/latest.zip?raw=true",
         "DownloadLinkUpdate": "https://github.com/iaotle/MyDalamudPlugins/blob/master/plugins/RaidBuffTracker/latest.zip?raw=true",
         "Tags": [
-        "ui"
+        "UI",
+        "Utility"
         ]
     },
     {
@@ -36,22 +37,20 @@
         ]
     },
     {
-        "Author": "Haplo064",
-        "Name": "Chat Bubbles",
-        "Punchline": "Enables in-game chat bubbles.",
-        "InternalName": "ChatBubbles",
-        "Description": "Using native chat bubble display, see who is talking about what in a more natural fashion.",
+        "Author": "akira0245, Iaotle",
+        "Name": "LootMaster",
+        "Punchline": "Enables you to roll on items using a chat command.",
+        "InternalName": "LootMaster",
+        "Description": "Use /need, /greed, and /pass to roll automatically on items.",
         "Tags": [
         "UI",
-        "Roleplay",
-        "RP",
-        "Bubbles",
-        "Chat"
+        "Utility"
         ],
-        "AssemblyVersion": "1.3.3.0",
+        "AssemblyVersion": "2.0.0.0",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 6,
-        "DownloadLinkInstall": "https://github.com/iaotle/MyDalamudPlugins/blob/master/plugins/ChatBubbles/latest.zip?raw=true",
-        "DownloadLinkUpdate": "https://github.com/iaotle/MyDalamudPlugins/blob/master/plugins/ChatBubbles/latest.zip?raw=true"
+        "IconUrl": "https://raw.githubusercontent.com/iaotle/MyDalamudPlugins/master/plugins/LootMaster/images/icon.png",
+        "DownloadLinkInstall": "https://github.com/iaotle/MyDalamudPlugins/blob/master/plugins/LootMaster/latest.zip?raw=true",
+        "DownloadLinkUpdate": "https://github.com/iaotle/MyDalamudPlugins/blob/master/plugins/LootMaster/latest.zip?raw=true"
   }
 ]
